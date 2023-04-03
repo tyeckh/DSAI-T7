@@ -1,0 +1,699 @@
+Condition,Drug,Indication,Type,Form,EaseOfUse,Effective,Price,Reviews,Satisfaction
+Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,Capsule,3.8523529411764703,3.6558823529411764,12.59,86.29411764705883,3.1976470588235295
+Acute Bacterial Sinusitis,Amoxicillin-Pot Clavulanate,Off Label,RX,Liquid (Drink),3.47,3.29,287.37,43.0,2.59
+Acute Bacterial Sinusitis,Amoxicillin-Pot Clavulanate,On Label,RX,Tablet,3.1214285714285714,2.962857142857143,70.60857142857142,267.2857142857143,2.2485714285714287
+Acute Bacterial Sinusitis,Ampicillin,On Label,RX,Capsule,2.0,3.0,12.59,1.0,1.0
+Acute Bacterial Sinusitis,Ampicillin,On Label,RX,Tablet,3.25,3.0,125.24,15.0,3.0
+Acute Bacterial Sinusitis,Ampicillin Sodium,Off Label,RX,Tablet,3.0,3.0,143.215,1.0,3.0
+Acute Bacterial Sinusitis,Azithromycin,On Label,RX,Tablet,4.091666666666666,3.341666666666667,32.1,490.0,2.7583333333333333
+Acute Bacterial Sinusitis,Clarithromycin,On Label,RX,Tablet,3.582,3.4579999999999997,99.49,141.6,2.7800000000000002
+Acute Bacterial Sinusitis,Erythromycin,On Label,RX,Tablet,2.895,3.255,125.24,41.0,2.51
+Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,Liquid (Drink),2.9444444444444446,3.2777777777777777,332.63,3.6666666666666665,3.2222222222222223
+Acute Bacterial Sinusitis,Erythromycin Stearate,On Label,RX,Tablet,3.6,4.0,161.19,5.666666666666667,3.733333333333333
+Acute Bacterial Sinusitis,Levofloxacin,On Label,RX,Tablet,3.2739999999999996,2.6420000000000003,172.99,546.6,2.008
+Acute Bacterial Sinusitis,Moxifloxacin,On Label,RX,Liquid (Drink),3.276666666666667,2.8699999999999997,74.99,259.3333333333333,2.526666666666667
+Acute Bacterial Sinusitis,Moxifloxacin-Sod.Chloride(Iso),On Label,RX,Liquid (Drink),2.33,2.33,74.99,5.0,2.0
+Atopic Dermatitis,Alclometasone,On Label,RX,Cream,5.0,2.75,41.99,4.0,2.75
+Atopic Dermatitis,Amcinonide,On Label,RX,Cream,5.0,5.0,224.77,2.5,5.0
+Atopic Dermatitis,"Betamethasone Acet,Sod Phos",On Label,RX,Liquid (Inject),4.335,4.0,53.99,15.0,4.0
+Atopic Dermatitis,Betamethasone Dipropionate,On Label,RX,Cream,4.7,4.273333333333333,71.72333333333334,40.0,4.333333333333333
+Atopic Dermatitis,Betamethasone Valerate,On Label,RX,Cream,4.74,4.220000000000001,45.91,10.0,4.220000000000001
+Atopic Dermatitis,"Betamethasone, Augmented",On Label,RX,Cream,3.5566666666666666,3.89,52.59,3.3333333333333335,3.223333333333333
+Atopic Dermatitis,"Betamethasone, Augmented, Betamethasone Dipropionate",On Label,RX,Cream,4.25,3.75,109.99,9.0,3.5
+Atopic Dermatitis,Cetirizine,Off Label,OTC,Liquid (Drink),4.668333333333333,4.098333333333334,15.49,65.33333333333333,3.8716666666666666
+Atopic Dermatitis,Cetirizine,Off Label,RX/OTC,Liquid (Drink),4.14,3.27,15.49,89.0,3.05
+Atopic Dermatitis,Clobetasol,On Label,RX,Liquid (Drink),4.3525,3.9425,174.99,90.375,3.69
+Atopic Dermatitis,Clobetasol-Emollient,On Label,RX,Cream,3.9175,3.555,266.49,11.25,3.3625
+Atopic Dermatitis,Cortisone,On Label,RX,Tablet,4.2,4.6,96.59,20.0,3.2
+Atopic Dermatitis,Desonide,On Label,RX,Cream,4.495,3.8949999999999996,397.03,30.333333333333332,3.8949999999999996
+Atopic Dermatitis,Desonide-Emollient Combo No 28,On Label,RX,Cream,4.0,4.0,89.99,1.0,4.0
+Atopic Dermatitis,"Desonide-Emollient Combo No 28, Desonide",On Label,RX,Cream,3.0,1.5,89.99,4.0,1.0
+Atopic Dermatitis,Desoximetasone,On Label,RX,Cream,4.336,3.444,47.99,23.0,3.312
+Atopic Dermatitis,Dexamethasone,On Label,RX,Tablet,3.605454545454545,3.4736363636363636,11.990000000000002,34.54545454545455,3.0854545454545454
+Atopic Dermatitis,Dexamethasone Sodium Phos (PF),On Label,RX,Liquid (Inject),4.0,5.0,11.99,2.0,5.0
+Atopic Dermatitis,Dexamethasone Sodium Phosphate,On Label,RX,Liquid (Drink),4.166666666666667,4.056666666666667,64.99,6.333333333333333,3.5566666666666666
+Atopic Dermatitis,Diflorasone,On Label,RX,Cream,5.0,4.666666666666667,334.99,3.3333333333333335,5.0
+Atopic Dermatitis,Diflorasone-Emollient,On Label,RX,Cream,4.833333333333333,4.666666666666667,665.99,3.0,4.833333333333333
+Atopic Dermatitis,Doxepin,On Label,RX,Capsule,4.085,4.335,13.17,5.5,3.915
+Atopic Dermatitis,Fluocinolone,On Label,RX,Liquid (Drink),4.0842857142857145,3.834285714285714,209.99,11.0,3.73
+Atopic Dermatitis,Fluocinolone And Shower Cap,On Label,RX,Liquid (Drink),3.35,4.5,201.99,9.0,4.3
+Atopic Dermatitis,Fluocinolone-Emol Cmb#65,On Label,RX,Cream,3.5,1.0,35.99,1.0,1.0
+Atopic Dermatitis,Fluocinolone-Skin Clnsr28,On Label,RX,Cream,5.0,5.0,35.99,1.0,5.0
+Atopic Dermatitis,Fluocinonide,On Label,RX,Cream,4.3999999999999995,4.3500000000000005,2564.3233333333333,12.0,4.2
+Atopic Dermatitis,Fluocinonide,On Label,RX,Liquid (Drink),4.7,4.7,15.49,68.0,4.7
+Atopic Dermatitis,Fluocinonide,On Label,RX,Tablet,5.0,5.0,11.99,1.0,5.0
+Atopic Dermatitis,Fluocinonide-Emollient,On Label,RX,Cream,3.75,3.5,96.99,4.0,4.0
+Atopic Dermatitis,Flurandrenolide,On Label,RX,Cream,4.0,3.5,430.99,3.75,3.4575
+Atopic Dermatitis,Fluticasone Propionate,On Label,RX,Liquid (Drink),5.0,5.0,74.99,8.0,5.0
+Atopic Dermatitis,Halobetasol Propionate,On Label,RX,Cream,4.476666666666667,4.54,245.99,24.0,4.433333333333334
+Atopic Dermatitis,Hydrocortisone,On Label,OTC,Cream,4.546666666666667,3.5866666666666664,14.59,2.1333333333333333,3.6
+Atopic Dermatitis,Hydrocortisone,On Label,RX,Cream,4.12,4.223333333333334,14.589999999999998,25.0,3.4266666666666663
+Atopic Dermatitis,Hydrocortisone,On Label,RX/OTC,Cream,2.6,2.6,14.59,17.5,2.5
+Atopic Dermatitis,Hydrocortisone Acetate,On Label,OTC,Cream,4.5,4.25,14.59,2.0,3.75
+Atopic Dermatitis,Hydrocortisone Acetate,On Label,RX/OTC,Cream,4.0,2.0,14.59,1.0,2.0
+Atopic Dermatitis,Hydrocortisone Butyr-Emollient,On Label,RX,Cream,4.86,4.57,344.99,31.0,4.43
+Atopic Dermatitis,Hydrocortisone Butyrate,On Label,RX,Cream,3.835,3.5,205.49,5.0,3.5
+Atopic Dermatitis,Hydrocortisone Probutate,On Label,RX,Cream,1.0,1.0,1264.99,2.0,1.0
+Atopic Dermatitis,Hydrocortisone Sod Succ (PF),On Label,RX,Liquid (Inject),5.0,4.0,49.99,1.0,4.0
+Atopic Dermatitis,Hydrocortisone Sod Succinate,On Label,RX,Liquid (Inject),4.0,4.0,49.99,1.5,4.5
+Atopic Dermatitis,Hydrocortisone Valerate,On Label,RX,Cream,2.0,2.0,74.99,6.0,2.0
+Atopic Dermatitis,"Hydrocortisone, Pramoxine-Benzyl Alcohol",On Label,OTC,Cream,5.0,5.0,14.59,5.0,5.0
+Atopic Dermatitis,Hydrocortisone-Iodoquinl-Aloe2,"
+",RX,Cream,3.0,3.0,7323.99,14.0,3.0
+Atopic Dermatitis,Hydrocortisone-Iodoquinol,"
+",RX,Cream,4.0,4.0,58.99,1.0,4.0
+Atopic Dermatitis,Hydrocortisone-Oatmeal-Aloe-E,On Label,OTC,Cream,3.0,1.0,14.59,1.0,1.0
+Atopic Dermatitis,"Hydrocortisone-Pramoxine, Hydrocortisone",On Label,RX,Cream,4.75,3.75,14.589999999999998,8.0,3.75
+Atopic Dermatitis,Methylprednisolone,On Label,RX,Tablet,3.905,3.2016666666666667,33.76,149.66666666666666,3.0533333333333332
+Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,Liquid (Inject),2.567,3.185,16.57,13.3,2.5469999999999997
+Atopic Dermatitis,Mometasone,On Label,RX,Cream,4.6899999999999995,4.775,23.99,35.5,4.775
+Atopic Dermatitis,Pimecrolimus,On Label,RX,Liquid (Drink),4.14,3.26,15.49,79.0,3.17
+Atopic Dermatitis,Prednicarbate,On Label,RX,Cream,5.0,5.0,139.99,9.0,5.0
+Atopic Dermatitis,Prednisolone,On Label,RX,Tablet,2.5,3.165,277.99,5.5,2.5
+Atopic Dermatitis,Prednisolone Sodium Phosphate,On Label,RX,Tablet,4.473333333333334,4.07,206.99,8.0,3.8333333333333335
+Atopic Dermatitis,"Prednisolone, Prednisolone Sodium Phosphate",On Label,RX,Tablet,3.0,1.0,206.99,3.0,2.0
+Atopic Dermatitis,Prednisone,On Label,RX,Liquid (Drink),3.33,4.33,156.99,18.0,2.33
+Atopic Dermatitis,Prednisone,On Label,RX,Tablet,3.965,3.3275,397.98999999999995,969.875,3.0275
+Atopic Dermatitis,"Salicylic Acid, Hydrocortisone",On Label,OTC,Liquid (Drink),1.0,1.0,113.99,1.0,1.0
+Atopic Dermatitis,Tacrolimus,On Label,RX,Cream,4.05,4.3100000000000005,232.99,28.5,4.3100000000000005
+Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,Cream,3.6342857142857143,4.071428571428571,13.99,35.857142857142854,3.6214285714285714
+Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,Liquid (Inject),3.3814285714285717,3.3971428571428572,10.179999999999998,51.0,3.347142857142857
+Atopic Dermatitis,Triamcinolone-Emollient Comb86,On Label,RX,Other,1.0,1.0,612.99,2.0,1.0
+Atopic Dermatitis,Vit E-Glycerin-Dimethicone,On Label,"
+",Cream,5.0,4.0,14.5,1.0,5.0
+Atopic Dermatitis,"Vit E-Glycerin-Dimethicone, Glycerin-Dimethicone-Petro, Wh",On Label,"
+",Cream,3.0,2.0,14.5,3.0,2.5
+Atopic Dermatitis,Vit E-Grape-Hyaluronate Sodium,On Label,RX,Cream,4.54,3.69,302.99,22.0,3.77
+Bacterial Conjunctivitis,Azithromycin,On Label,RX,Liquid (Drink),4.0,3.0,266.99,2.0,2.0
+Bacterial Conjunctivitis,Bacitracin,Off Label,RX,Cream,4.67,3.33,11.99,8.0,2.0
+Bacterial Conjunctivitis,Bacitracin-Polymyxin B,Off Label,RX,Cream,2.3333333333333335,2.89,27.99,2.3333333333333335,2.3333333333333335
+Bacterial Conjunctivitis,Besifloxacin,On Label,RX,Liquid (Drink),4.0,3.215,187.48,10.0,2.895
+Bacterial Conjunctivitis,Ciprofloxacin Hcl,On Label,RX,Tablet,3.48,3.04,18.75,22.0,2.635
+Bacterial Conjunctivitis,Erythromycin,Off Label,RX,Cream,3.77,4.075,21.49,13.5,3.615
+Bacterial Conjunctivitis,Gatifloxacin,On Label,RX,Liquid (Drink),3.466666666666667,4.3999999999999995,109.99,8.666666666666666,3.953333333333333
+Bacterial Conjunctivitis,Gentamicin,On Label,RX,Liquid (Drink),3.2649999999999997,2.645,22.99,24.5,2.35
+Bacterial Conjunctivitis,Gentamicin-Prednisolone,On Label,RX,Liquid (Drink),5.0,4.0,184.99,1.0,4.0
+Bacterial Conjunctivitis,Levofloxacin,On Label,RX,Tablet,4.75,3.75,172.99,2.5,4.0
+Bacterial Conjunctivitis,Moxifloxacin,On Label,RX,Liquid (Drink),2.875,3.4699999999999998,149.99,62.5,2.79
+Bacterial Conjunctivitis,Neomycin-Bacitracin-Polymyxin,Off Label,RX,Cream,3.0,1.0,47.99,2.0,1.0
+Bacterial Conjunctivitis,Neomycin-Polymyxin-Gramicidin,Off Label,RX,Liquid (Drink),3.6666666666666665,2.3333333333333335,59.74,1.3333333333333333,2.3333333333333335
+Bacterial Conjunctivitis,Ofloxacin,On Label,RX,Liquid (Drink),4.2,2.1,79.99,5.5,1.9
+Bacterial Conjunctivitis,Sulfacetamide Sodium,On Label,RX,Liquid (Drink),3.2257142857142855,2.4085714285714284,53.99,8.142857142857142,3.06
+Bacterial Conjunctivitis,Sulfacetamide-Prednisolone,On Label,RX,Liquid (Drink),3.5,2.25,183.99,4.0,2.25
+Bacterial Urinary Tract Infection,Acetohydroxamic Acid,On Label,RX,Tablet,4.0,2.5,638.99,3.0,2.0
+Bacterial Urinary Tract Infection,Amikacin,On Label,RX,Liquid (Inject),1.0,1.0,147.99,4.0,1.0
+Bacterial Urinary Tract Infection,Amoxicillin-Pot Clavulanate,On Label,RX,Capsule,3.23,3.26,77.99,437.0,2.42
+Bacterial Urinary Tract Infection,Amoxicillin-Pot Clavulanate,On Label,RX,Tablet,3.04,2.74,15.99,140.0,2.12
+Bacterial Urinary Tract Infection,Ampicillin,On Label,RX,Liquid (Inject),2.0,3.0,20.09,1.0,1.0
+Bacterial Urinary Tract Infection,Ampicillin,On Label,RX,Tablet,3.25,3.0,15.99,15.0,3.0
+Bacterial Urinary Tract Infection,Ampicillin Sodium,On Label,RX,Liquid (Inject),1.0,1.0,20.09,1.0,1.0
+Bacterial Urinary Tract Infection,Ampicillin Sodium,On Label,RX,Tablet,5.0,5.0,15.99,1.0,5.0
+Bacterial Urinary Tract Infection,Aztreonam,On Label,RX,Liquid (Inject),2.5,3.5,175.89,2.0,2.5
+Bacterial Urinary Tract Infection,Cefaclor,Off Label,RX,Tablet,4.0,4.0,15.99,1.0,4.0
+Bacterial Urinary Tract Infection,Cefaclor,On Label,RX,Liquid (Inject),5.0,3.0,20.09,2.0,4.0
+Bacterial Urinary Tract Infection,Cefaclor,On Label,RX,Tablet,4.0,2.854,15.99,14.2,1.9300000000000002
+Bacterial Urinary Tract Infection,Cefadroxil,On Label,RX,Capsule,2.8049999999999997,2.4450000000000003,43.09,18.5,1.9749999999999999
+Bacterial Urinary Tract Infection,Cefazolin,On Label,RX,Liquid (Inject),2.3333333333333335,2.4433333333333334,5.989999999999999,7.0,1.9433333333333334
+Bacterial Urinary Tract Infection,Cefazolin In Dextrose (Iso-Os),On Label,RX,Liquid (Inject),3.0,2.0,5.99,1.0,1.0
+Bacterial Urinary Tract Infection,Cefdinir,Off Label,RX,Capsule,3.565,2.36,85.99,205.0,1.77
+Bacterial Urinary Tract Infection,Cefepime,On Label,RX,Capsule,2.0,4.0,77.99,1.0,4.0
+Bacterial Urinary Tract Infection,Cefepime,On Label,RX,Liquid (Inject),5.0,3.0,167.51,5.0,2.5
+Bacterial Urinary Tract Infection,"Cefepime In Dextrose,Iso-Osm",On Label,RX,Liquid (Inject),5.0,5.0,147.99,4.0,5.0
+Bacterial Urinary Tract Infection,Cefixime,On Label,RX,Liquid (Drink),4.0,4.5,79.99,7.0,4.5
+Bacterial Urinary Tract Infection,Cefixime,On Label,RX,Tablet,3.09,2.73,86.99,47.0,1.45
+Bacterial Urinary Tract Infection,Ceftazidime,On Label,RX,Liquid (Inject),4.0,2.0,90.69,2.5,2.0
+Bacterial Urinary Tract Infection,Ceftriaxone,On Label,RX,Liquid (Inject),3.835,4.335,20.09,24.5,4.165
+Bacterial Urinary Tract Infection,"Ceftriaxone In Dextrose,Iso-Os",On Label,RX,Liquid (Inject),3.5,5.0,20.09,1.5,5.0
+Bacterial Urinary Tract Infection,Cefuroxime Axetil,On Label,RX,Tablet,3.34,3.19,86.99,126.5,2.59
+Bacterial Urinary Tract Infection,Cefuroxime Sodium,On Label,RX,Liquid (Inject),5.0,5.0,778.69,1.0,5.0
+Bacterial Urinary Tract Infection,Cephalexin,On Label,RX,Capsule,4.1525,3.1950000000000003,13.82,151.75,2.605
+Bacterial Urinary Tract Infection,Ciprofloxacin,On Label,RX,Tablet,3.78,3.59,18.75,538.0,2.75
+Bacterial Urinary Tract Infection,Ciprofloxacin Hcl,Off Label,RX,Tablet,5.0,5.0,18.75,1.0,5.0
+Bacterial Urinary Tract Infection,Ciprofloxacin Hcl,On Label,RX,Tablet,3.43,3.57,18.75,22.0,3.0
+Bacterial Urinary Tract Infection,"Ciprofloxacin Hcl, Ciprofloxacin",On Label,RX,Tablet,3.18,3.06,18.75,627.0,2.12
+Bacterial Urinary Tract Infection,Ciprofloxacin In 5 % Dextrose,On Label,RX,Liquid (Inject),1.0,1.0,5.99,1.0,1.0
+Bacterial Urinary Tract Infection,Demeclocycline,On Label,RX,Tablet,3.0,1.0,880.99,2.5,1.0
+Bacterial Urinary Tract Infection,Doxycycline Calcium,On Label,RX,Capsule,3.27,3.47,77.99,204.0,2.92
+Bacterial Urinary Tract Infection,"Doxycycline Calcium, Doxycycline Hyclate, Doxycycline Monohydrate",On Label,RX,Capsule,2.0,1.86,77.99,32.0,1.57
+Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,Capsule,3.152727272727273,3.387272727272727,77.99,99.54545454545455,2.632727272727273
+Bacterial Urinary Tract Infection,Doxycycline Monohydrate,On Label,RX,Capsule,3.9766666666666666,3.7833333333333337,66.92333333333333,27.666666666666668,3.723333333333333
+Bacterial Urinary Tract Infection,Fosfomycin Tromethamine,On Label,RX,Liquid (Inject),5.0,5.0,90.69,2.0,5.0
+Bacterial Urinary Tract Infection,Fosfomycin Tromethamine,On Label,RX,Tablet,4.79,4.06,86.99,52.0,4.0
+Bacterial Urinary Tract Infection,Imipenem-Cilastatin,On Label,RX,Liquid (Inject),4.0,5.0,107.89,2.5,4.5
+Bacterial Urinary Tract Infection,Levofloxacin,On Label,RX,Tablet,3.5828571428571427,3.172857142857143,172.99,395.2857142857143,2.4957142857142856
+Bacterial Urinary Tract Infection,Levofloxacin In D5W,On Label,RX,Capsule,4.0,2.0,77.99,2.0,1.0
+Bacterial Urinary Tract Infection,Levofloxacin In D5W,On Label,RX,Liquid (Inject),3.0,1.0,147.99,4.0,1.0
+Bacterial Urinary Tract Infection,Minocycline,On Label,RX,Capsule,3.755,3.465,40.1,108.5,2.705
+Bacterial Urinary Tract Infection,Nitrofurantoin,On Label,RX,Liquid (Drink),3.2699999999999996,3.34,878.9900000000001,152.33333333333334,2.7566666666666664
+Bacterial Urinary Tract Infection,Nitrofurantoin Macrocrystal,On Label,RX,Tablet,4.24,4.18,86.99,54.0,3.59
+Bacterial Urinary Tract Infection,Nitrofurantoin Monohyd/M-Cryst,On Label,RX,Tablet,2.6550000000000002,2.835,51.489999999999995,320.5,1.79
+Bacterial Urinary Tract Infection,Ofloxacin,On Label,RX,Liquid (Drink),2.5,1.0,79.99,8.5,1.0
+Bacterial Urinary Tract Infection,Streptomycin,On Label,RX,Liquid (Inject),3.0,4.0,90.69,2.0,2.0
+Bacterial Urinary Tract Infection,Sulfadiazine,On Label,RX,Liquid (Inject),4.0,5.0,147.99,4.0,5.0
+Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,Tablet,2.804,2.722,15.99,95.05,2.127
+Bacterial Urinary Tract Infection,Trimethoprim,On Label,RX,Liquid (Inject),3.5,4.5,20.09,2.0,2.0
+Bacterial Urinary Tract Infection,Trimethoprim,On Label,RX,Tablet,3.29,3.91,17.69,20.5,3.0
+Infantile Autism,Aripiprazole,On Label,RX,Tablet,3.695,2.85,826.99,42.5,2.76
+Infantile Autism,Paliperidone,Off Label,RX,Tablet,4.5600000000000005,4.355,826.99,92.0,4.2
+Infantile Autism,Risperidone,On Label,RX,Tablet,3.2800000000000002,2.7025,39.49,216.75,2.2125
+Influenza,Oseltamivir,On Label,RX,Capsule,3.81,3.53,101.99,383.0,3.13
+Influenza,Zanamivir,On Label,RX,Other,2.3449999999999998,2.125,81.99,10.0,2.0
+Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,Capsule,4.07,3.5617647058823527,12.59,87.41176470588235,3.327058823529412
+Pharyngitis due to Streptococcus Pyogenes,Azithromycin,On Label,RX,Tablet,3.9372727272727275,3.3009090909090912,32.1,310.72727272727275,2.3
+Pharyngitis due to Streptococcus Pyogenes,Cefaclor,On Label,RX,Tablet,4.0,3.4975,121.9025,10.0,2.6275
+Pharyngitis due to Streptococcus Pyogenes,Cefadroxil,On Label,RX,Capsule,2.8049999999999997,2.4450000000000003,43.09,18.5,1.9749999999999999
+Pharyngitis due to Streptococcus Pyogenes,Cefdinir,On Label,RX,Capsule,3.565,2.36,85.99,205.0,1.77
+Pharyngitis due to Streptococcus Pyogenes,Cefditoren Pivoxil,On Label,RX,Tablet,3.875,3.565,330.99,9.0,2.315
+Pharyngitis due to Streptococcus Pyogenes,Cefixime,On Label,RX,Capsule,4.0,4.5,12.59,7.0,4.5
+Pharyngitis due to Streptococcus Pyogenes,Cefixime,On Label,RX,Tablet,3.09,2.73,125.24,47.0,1.45
+Pharyngitis due to Streptococcus Pyogenes,Cefpodoxime,On Label,RX,Tablet,4.33,2.67,120.79,15.0,2.33
+Pharyngitis due to Streptococcus Pyogenes,Cefprozil,On Label,RX,Liquid (Drink),3.105,2.375,72.99,28.0,1.665
+Pharyngitis due to Streptococcus Pyogenes,Cefuroxime Axetil,On Label,RX,Tablet,3.34,3.19,86.99,126.5,2.59
+Pharyngitis due to Streptococcus Pyogenes,Cephalexin,On Label,RX,Capsule,4.1525,3.1950000000000003,13.82,151.75,2.605
+Pharyngitis due to Streptococcus Pyogenes,Clarithromycin,On Label,RX,Tablet,3.3575,3.1125,99.49,224.75,2.2925
+Pharyngitis due to Streptococcus Pyogenes,Erythromycin,On Label,RX,Tablet,2.895,3.255,125.24,41.0,2.51
+Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,Liquid (Drink),2.9444444444444446,3.2777777777777777,332.63,3.6666666666666665,3.2222222222222223
+Pharyngitis due to Streptococcus Pyogenes,Erythromycin Stearate,On Label,RX,Tablet,3.6,4.0,161.19,5.666666666666667,3.733333333333333
+Pharyngitis due to Streptococcus Pyogenes,"Penicillin G Benzathin,Procain",On Label,RX,Liquid (Inject),2.67,2.67,158.99,5.0,2.33
+Pharyngitis due to Streptococcus Pyogenes,Penicillin G Benzathine,On Label,RX,Liquid (Inject),2.755,3.435,382.99,18.0,3.02
+Pharyngitis due to Streptococcus Pyogenes,Penicillin V Potassium,On Label,RX,Tablet,3.4025,3.045,20.19,22.25,2.705
+Sleepiness Due To Obstructive Sleep Apnea,Armodafinil,On Label,RX,Tablet,4.18,3.95,656.09,182.5,3.625
+Sleepiness Due To Obstructive Sleep Apnea,Modafinil,On Label,RX,Tablet,4.645,4.1450000000000005,849.99,334.0,3.9450000000000003
+adenocarcinoma of pancreas,Capecitabine,Off Label,RX,Tablet,4.14,3.75,5829.19,83.0,3.685
+adenocarcinoma of pancreas,Cisplatin,Off Label,RX,Liquid (Inject),3.225,3.635,362.89,17.0,3.225
+adenocarcinoma of pancreas,Doxorubicin,Off Label,RX,Liquid (Inject),2.3333333333333335,1.6666666666666667,23.290000000000003,3.3333333333333335,2.3333333333333335
+adenocarcinoma of pancreas,Fluorouracil,On Label,RX,Liquid (Inject),1.0,3.0,25.99,5.0,3.0
+adenocarcinoma of pancreas,Gemcitabine,On Label,RX,Liquid (Inject),3.5549999999999997,3.3449999999999998,170.99,21.5,2.835
+adenocarcinoma of pancreas,Mitomycin,On Label,RX,Liquid (Inject),2.0,2.5,1516.09,4.0,2.0
+adenocarcinoma of pancreas,Oxaliplatin,Off Label,RX,Liquid (Inject),3.9,4.5,2049.59,16.0,2.9
+adenocarcinoma of pancreas,Paclitaxel-Protein Bound,On Label,RX,Liquid (Inject),3.0,3.59,10362.19,14.0,3.385
+back pain,"ASA-Acetaminophen-Salicyl-Caff, Mg Salicylat-Acetaminophen-Caf",On Label,OTC,Cream,3.0,2.6,17.99,6.0,2.8
+back pain,Acetaminophen,On Label,OTC,Tablet,3.752181818181818,3.3983636363636363,11.99,10.618181818181819,3.379090909090909
+back pain,Aspirin-Acetaminophen-Caffeine,On Label,OTC,Cream,5.0,5.0,17.99,1.0,4.0
+back pain,Capsaicin,On Label,OTC,Cream,3.9749999999999996,3.3322222222222226,17.99,16.166666666666668,3.229444444444445
+back pain,Capsaicin In Castor Oil,On Label,OTC,Liquid (Drink),3.0,3.0,18.59,1.0,4.0
+back pain,Capsaicin-Camphor-Menthol,On Label,OTC,Cream,2.5,3.0,11.99,1.5,3.0
+back pain,"Capsaicin-Menthol, Capsaicin",On Label,OTC,Cream,3.47,2.47,17.99,59.0,2.16
+back pain,Capsaicin-Methyl Sal-Menthol,On Label,OTC,Cream,5.0,5.0,30.07,1.5,5.0
+back pain,Capsaicin-Methyl Sal-Menthol,On Label,OTC,Liquid (Drink),4.92,4.92,313.47,16.0,4.83
+back pain,"Cpm-PPA-DM-Acetaminophen, Acetaminophen",On Label,OTC,Tablet,5.0,5.0,11.99,2.0,2.0
+back pain,Menthol,On Label,OTC,Cream,4.21,3.637826086956522,7.95,1.434782608695652,3.7682608695652173
+back pain,"Menthol, Camphor-Methyl Salicyl-Menthol",On Label,OTC,Cream,5.0,5.0,11.99,1.0,5.0
+back pain,"Menthol, Capsaicin",On Label,OTC,Cream,5.0,4.0,7.95,1.0,5.0
+back pain,"Menthol-Camphor-Antarth Cb#1, Methyl Salicylate-Menthol, Camphor-Menthol, Camphor-Methyl Salicyl-Menthol",On Label,OTC,Cream,5.0,5.0,11.99,3.0,5.0
+back pain,Trolamine Salicylate,"
+",OTC,Cream,4.4799999999999995,3.8890000000000002,11.99,7.2,3.7640000000000002
+back pain,"Trolamine Salicylate, Ala-Bos-Gin-Bas-Rose-Tur-Wil","
+",OTC,Cream,3.0,5.0,11.99,2.0,3.0
+back pain,Trolamine Salicylate-Aloe Vera,"
+",OTC,Cream,5.0,5.0,11.99,1.0,5.0
+biliary calculus,Ursodiol,Off Label,RX,Tablet,4.324999999999999,4.275,84.89,22.5,4.25
+biliary calculus,Ursodiol,On Label,RX,Tablet,4.58,4.26,84.89,37.5,4.055
+chickenpox,Acyclovir,On Label,RX,Tablet,3.5,4.25,42.99,47.0,3.75
+chickenpox,Acyclovir Sodium,On Label,RX,Liquid (Inject),4.5,5.0,167.99,3.0,5.0
+chickenpox,Valacyclovir,On Label,RX,Tablet,4.38,4.125,222.79,248.0,3.88
+colorectal cancer,Fluorouracil,On Label,RX,Liquid (Inject),1.0,3.0,25.99,5.0,3.0
+depression,Amitriptyline,On Label,RX,Liquid (Inject),4.220000000000001,3.445,25.99,767.5,3.085
+depression,Amitriptyline,On Label,RX,Tablet,3.95,2.9,44.69,17.0,2.7
+depression,Amoxapine,On Label,RX,Tablet,5.0,4.5,47.39,3.0,4.25
+depression,Clomipramine,Off Label,RX,Capsule,4.035,3.69,208.99,58.0,3.34
+depression,Desipramine,On Label,RX,Tablet,4.380000000000001,3.59,41.99,35.5,3.17
+depression,Doxepin,On Label,RX,Capsule,4.426666666666667,3.731666666666667,13.17,131.83333333333334,3.533333333333333
+depression,Fluvoxamine,Off Label,RX,Tablet,4.2125,3.725,80.49,76.0,3.585
+depression,Imipramine Hcl,On Label,RX,Tablet,3.58,3.21,80.49,103.0,3.04
+depression,Imipramine Pamoate,On Label,RX,Capsule,4.0,3.135,419.99,19.0,2.91
+depression,Maprotiline,On Label,RX,Tablet,3.325,3.85,71.99,6.5,3.725
+depression,Nortriptyline,On Label,RX,Capsule,4.0,3.0,419.99,15.0,2.88
+depression,Nortriptyline,On Label,RX,Liquid (Inject),4.01,3.34,25.99,452.0,3.02
+depression,Nortriptyline,On Label,RX,Tablet,3.89,3.31,80.49,120.0,3.05
+depression,Phenelzine,On Label,RX,Tablet,3.89,3.68,79.59,47.0,3.35
+depression,Protriptyline,On Label,RX,Tablet,4.625,3.48,156.99,9.5,3.565
+diverticulitis of gastrointestinal tract,Amikacin,On Label,RX,Liquid (Inject),1.0,1.0,147.99,4.0,1.0
+diverticulitis of gastrointestinal tract,Amoxicillin-Pot Clavulanate,Off Label,RX,Tablet,3.1214285714285714,2.962857142857143,17.172857142857143,267.2857142857143,2.2485714285714287
+diverticulitis of gastrointestinal tract,Ampicillin-Sulbactam,Off Label,RX,Liquid (Inject),5.0,3.0,24.99,2.5,3.0
+diverticulitis of gastrointestinal tract,Ciprofloxacin,Off Label,RX,Tablet,3.78,3.59,18.75,538.0,2.75
+diverticulitis of gastrointestinal tract,Ciprofloxacin Hcl,Off Label,RX,Tablet,3.43,3.57,18.75,22.0,3.0
+diverticulitis of gastrointestinal tract,"Ciprofloxacin Hcl, Ciprofloxacin",Off Label,RX,Tablet,3.18,3.06,18.75,627.0,2.12
+diverticulitis of gastrointestinal tract,Ciprofloxacin In 5 % Dextrose,Off Label,RX,Tablet,1.0,1.0,19.99,1.0,1.0
+diverticulitis of gastrointestinal tract,Clindamycin In 5 % Dextrose,Off Label,RX,Tablet,5.0,3.0,15.99,3.0,3.0
+diverticulitis of gastrointestinal tract,Clindamycin Phosphate,Off Label,RX,Cream,3.0,2.0,81.99,2.0,1.0
+diverticulitis of gastrointestinal tract,Clindamycin Phosphate,Off Label,RX,Tablet,4.0,4.5,19.99,6.0,4.0
+diverticulitis of gastrointestinal tract,Meropenem,Off Label,RX,Tablet,3.0,5.0,15.99,9.0,4.0
+diverticulitis of gastrointestinal tract,Metronidazole,Off Label,RX,Tablet,3.2619999999999996,3.7359999999999998,19.99,240.2,2.968
+diverticulitis of gastrointestinal tract,Metronidazole In Nacl (Iso-Os),Off Label,RX,Liquid (Inject),1.0,1.0,24.99,1.0,1.0
+diverticulitis of gastrointestinal tract,Piperacillin-Tazobactam,Off Label,RX,Liquid (Inject),2.63,2.75,90.11,39.0,2.75
+diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,Tablet,2.804,2.722,15.99,95.05,2.127
+diverticulitis of gastrointestinal tract,Tigecycline,On Label,RX,Liquid (Inject),2.33,3.0,7991.99,9.0,2.67
+edema,Acetazolamide,On Label,RX,Tablet,3.34,3.605,70.49,104.0,2.89
+edema,Amiloride-Hydrochlorothiazide,On Label,RX,Capsule,2.665,2.5,172.39,6.5,2.165
+edema,Bumetanide,On Label,RX,Tablet,3.5566666666666666,2.9266666666666663,66.99,18.333333333333332,2.7466666666666666
+edema,Chlorothiazide,On Label,RX,Tablet,5.0,3.0,11.99,4.0,3.0
+edema,Chlorthalidone,On Label,RX,Tablet,4.3,2.6733333333333333,37.99,24.333333333333332,2.4166666666666665
+edema,Ethacrynic Acid,On Label,RX,Tablet,4.0,4.33,94.99,12.0,3.0
+edema,Furosemide,On Label,RX,Tablet,3.89,2.7533333333333334,11.99,140.5,2.486666666666667
+edema,Hydrochlorothiazide,On Label,RX,Tablet,4.005,3.46875,11.99,111.25,2.96375
+edema,Indapamide,On Label,RX,Tablet,4.6,3.8,21.99,5.0,3.4
+edema,Spironolacton-Hydrochlorothiaz,On Label,RX,Tablet,3.8333333333333335,2.813333333333333,29.47,8.666666666666666,2.223333333333333
+edema,Spironolactone,On Label,RX,Tablet,4.380000000000001,3.915,23.39,228.5,3.375
+edema,Torsemide,On Label,RX,Tablet,3.55,3.51,25.99,29.0,2.885
+edema,Triamterene,On Label,RX,Capsule,4.0,3.33,172.39,7.0,1.67
+edema,Triamterene-Hydrochlorothiazid,On Label,RX,Tablet,3.782,3.2340000000000004,11.49,54.0,2.7880000000000003
+edema,"Triamterene-Hydrochlorothiazid, Trichlormethiazide",On Label,RX,Tablet,1.0,2.0,11.49,2.0,1.0
+endometriosis,Danazol,On Label,RX,Capsule,3.69,2.815,119.61,16.0,2.69
+endometriosis,Goserelin,On Label,RX,Other,5.0,4.0,701.2,4.0,5.0
+endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,Tablet,4.212857142857143,3.9442857142857144,233.13285714285715,91.42857142857143,2.3057142857142856
+endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,Tablet,4.351428571428571,3.8742857142857146,30.99,32.142857142857146,2.672857142857143
+endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,Tablet,4.17875,4.110625,30.99,43.34375,2.801875
+endometriosis,Medroxyprogesterone,Off Label,RX,Liquid (Inject),4.364,4.272,98.99,164.4,2.744
+endometriosis,Medroxyprogesterone,On Label,RX,Liquid (Inject),4.775,4.115,311.99,8.0,3.0
+endometriosis,Nafarelin,On Label,RX,Liquid (Drink),3.0,3.0,3339.99,5.0,2.0
+endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,Tablet,4.302857142857143,3.674285714285714,135.99,76.57142857142857,2.9771428571428573
+endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,Tablet,4.0175,3.835,31.99,13.0,2.4275
+endometriosis,"Norethin-E.Estradiol Triphasic, Norethindrone-Ethin Estradiol",Off Label,RX,Tablet,5.0,1.0,31.99,2.0,1.0
+endometriosis,Norethin-Eth Estrad Biphasic,Off Label,RX,Tablet,4.25,4.5,31.99,4.0,3.0
+endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,Tablet,4.05,3.8154545454545454,28.99,20.454545454545453,2.570909090909091
+endometriosis,Norethindrone Acetate,On Label,RX,Tablet,4.33,3.81,71.99,88.0,3.5
+endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,Tablet,4.028695652173913,3.670434782608696,191.29434782608698,72.21739130434783,2.4921739130434784
+endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,Tablet,4.365333333333334,4.2523333333333335,31.99,23.333333333333332,3.3713333333333333
+endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,Tablet,3.9933333333333336,3.7549999999999994,29.99,66.16666666666667,2.3466666666666667
+endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,Tablet,4.567,4.3100000000000005,27.99,40.4,3.425
+endometriosis,Triptorelin Pamoate,Off Label,RX,Liquid (Inject),3.575,3.89125,2927.99,3.125,2.47125
+fever,ASA-Acetaminophen-Salicyl-Caff,On Label,OTC,Liquid (Drink),2.5,3.0,14.989999999999998,3.5,3.0
+fever,ASA-Acetaminophen-Salicyl-Caff,On Label,OTC,Tablet,1.0,1.0,11.99,2.0,1.0
+fever,ASA-Acetaminophen-Salicyl-Caff,On Label,RX,Tablet,2.46,2.23,13.49,23.0,2.15
+fever,"ASA-Acetaminophen-Salicyl-Caff, Mg Salicylat-Acetaminophen-Caf",On Label,OTC,Liquid (Drink),3.0,2.6,10.99,6.0,2.8
+fever,Acetaminophen,On Label,OTC,Tablet,3.760877192982456,3.4194736842105264,11.990000000000002,10.350877192982455,3.400877192982456
+fever,Acetaminophen,On Label,RX,Liquid (Inject),3.875,2.835,61.99,4.5,2.835
+fever,Acetaminophen-Caffeine,On Label,OTC,Liquid (Drink),4.88,5.0,9.99,11.0,4.88
+fever,Acetaminophen-DM,On Label,OTC,Liquid (Drink),3.6666666666666665,2.6666666666666665,10.39,1.0,3.0
+fever,"Acetaminophen-Pamabrom, Ibuprofen",On Label,OTC,Tablet,5.0,5.0,13.49,2.0,5.0
+fever,Aspirin,On Label,OTC,Tablet,3.9782608695652173,3.3260869565217392,11.989999999999998,2.3043478260869565,3.4782608695652173
+fever,Aspirin,On Label,RX,Tablet,1.0,1.0,11.99,1.0,1.0
+fever,Aspirin,On Label,RX/OTC,Tablet,4.64,4.27,11.99,55.0,4.55
+fever,"Aspirin, Buffered",On Label,OTC,Tablet,4.5,4.3076923076923075,11.99,1.6923076923076923,4.461538461538462
+fever,Aspirin-Acetaminophen-Caffeine,On Label,OTC,Liquid (Drink),5.0,5.0,10.39,1.0,4.0
+fever,"Aspirin-Acetaminophen-Caffeine, Aspirin, Phenyltoloxamine-Acetaminophen",On Label,OTC,Other,2.0,2.0,10.49,1.0,2.0
+fever,Aspirin-Calcium Carbonate,On Label,OTC,Liquid (Drink),5.0,5.0,10.29,1.0,5.0
+fever,"Chlorphen-PE-DM-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,Liquid (Drink),5.0,5.0,14.99,5.0,5.0
+fever,"Chlorphenir-Phenylephrn-Aspirn, Diphenhydramine-Acetaminophen, Cpm-Phenyleph-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,Other,2.0,2.0,8.28,1.0,5.0
+fever,Chlorpheniram-DM-Acetaminophen,On Label,OTC,Liquid (Drink),5.0,4.333333333333333,8.79,1.6666666666666667,4.0
+fever,Chlorpheniram-DM-Acetaminophen,On Label,OTC,Other,5.0,5.0,19.99,8.0,5.0
+fever,Chlorpheniramine-Acetaminophen,On Label,OTC,Other,4.0,3.5,10.49,1.0,1.5
+fever,"Chlorpheniramine-Acetaminophen, Chlorphen-PPA-Acetaminophen",On Label,OTC,Other,3.0,4.0,10.49,4.0,5.0
+fever,"Choline,Magnesium Salicylate",On Label,RX,Liquid (Drink),4.666666666666667,4.11,48.69,3.3333333333333335,3.89
+fever,Cpm-PPA-DM-Acetaminophen,On Label,OTC,Tablet,4.5,4.0,11.99,1.5,4.25
+fever,"Cpm-PPA-DM-Acetaminophen, Acetaminophen",On Label,OTC,Tablet,5.0,5.0,11.99,2.0,2.0
+fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,Other,4.9375,4.625,8.28,1.75,4.3125
+fever,DM-PE-Acetam/DM-Acetam-Doxylam,On Label,OTC,Liquid (Drink),3.0,3.0,8.69,5.0,3.0
+fever,"Dextromethorphan-Guaifenesin, Guaifenesin, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,Liquid (Drink),2.0,2.0,11.99,1.0,1.0
+fever,Doxylam-PE-DM-Acetaminophen-GG,On Label,OTC,Other,5.0,4.0,24.23,1.0,5.0
+fever,Doxylamin-PSE-DM-Acetaminophen,On Label,OTC,Liquid (Drink),4.368333333333333,4.015,6.87,8.333333333333334,3.7433333333333336
+fever,"Doxylamin-PSE-DM-Acetaminophen, Chlorphen-PE-DM-Acetaminophen",On Label,OTC,Liquid (Drink),4.0,3.0,6.87,2.0,4.0
+fever,Doxylamine-DM-Acetaminophen,On Label,OTC,Liquid (Drink),4.211818181818182,3.3636363636363638,9.422727272727274,2.090909090909091,3.227272727272727
+fever,Doxylamine-PE-DM-Acetaminophen,On Label,OTC,Liquid (Drink),3.75,3.75,8.69,1.0,3.25
+fever,"Doxylamine-PE-DM-Acetaminophen, Diphenhydramine-PPA-ASA",On Label,OTC,Liquid (Drink),5.0,4.0,8.69,1.0,5.0
+fever,Ibuprofen,On Label,OTC,Tablet,4.2,3.9544,13.49,5.72,3.8336
+fever,Ibuprofen,On Label,RX,Tablet,4.375,4.125,13.49,1.5,3.5
+fever,Ibuprofen,On Label,RX/OTC,Tablet,4.08,3.505,13.49,150.0,3.385
+fever,Indomethacin,Off Label,RX,Capsule,4.397777777777778,3.663333333333333,15.99,133.66666666666666,3.598888888888889
+fever,Naproxen,Off Label,RX,Tablet,3.64,3.27,15.59,64.0,2.91
+fever,Naproxen,On Label,RX,Tablet,3.7000000000000006,2.82,15.589999999999998,740.0,2.42
+fever,Naproxen Sodium,Off Label,RX,Tablet,4.335,3.665,61.39,7.0,3.5
+fever,Naproxen Sodium,On Label,OTC,Tablet,4.248,3.8,61.39,39.4,4.026
+fever,Naproxen Sodium,On Label,RX/OTC,Tablet,4.23,3.12,61.39,104.0,2.73
+fever,Naproxen-Pseudoephedrine,On Label,OTC,Liquid (Drink),4.475714285714285,4.547142857142857,18.99,2.5714285714285716,3.904285714285714
+fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,Other,4.211538461538462,3.3846153846153846,27.54,3.3846153846153846,2.649230769230769
+fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,Liquid (Drink),5.0,5.0,10.29,1.0,5.0
+fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,Other,5.0,4.0,12.11,1.25,4.0
+fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,Tablet,5.0,5.0,11.99,1.0,3.0
+fever,Phenyltoloxamine-Acetaminophen,"
+",OTC,Liquid (Drink),4.566,3.434,10.790000000000001,2.8,3.566
+fever,Phenyltoloxamine-Acetaminophen,"
+",RX,Liquid (Drink),4.43,3.867,10.99,3.3,3.6079999999999997
+fever,Phenyltoloxamine-Acetaminophen,"
+",RX/OTC,Liquid (Drink),4.5,3.25,10.99,3.5,3.25
+fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,Liquid (Drink),4.5325,4.1875,11.41,7.75,3.6875
+fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,Tablet,1.0,1.0,11.99,2.0,1.0
+fever,Pseudoeph-DM-GG-Acetaminophen,On Label,RX,Other,3.5,3.75,8.28,3.5,3.0
+fever,"Pseudoeph-DM-GG-Acetaminophen, Chlorphen-PE-DM-Acetaminophen",On Label,OTC,Liquid (Drink),3.0,3.0,8.69,1.0,4.0
+fever,"Pseudoeph-DM-GG-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,Liquid (Drink),5.0,3.3333333333333335,9.823333333333332,1.0,3.3333333333333335
+fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,Liquid (Drink),4.75,4.25,12.93,2.0,4.25
+fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,Other,4.335,3.5,27.54,4.0,2.5
+fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,Tablet,4.6,3.4,11.99,1.0,3.2
+fever,"Pseudoephed-DM-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,Liquid (Drink),5.0,5.0,10.99,3.0,5.0
+fever,"Pseudoephed-DM-Acetaminophen, Phenylpropanolamine-GG, Chlorpheniramine-Pseudoephed",On Label,OTC,Other,3.0,3.0,7.989999999999999,1.0,3.0
+fever,Pseudoephedrine-Ibuprofen,On Label,OTC,Liquid (Drink),3.7840000000000003,3.184,18.99,5.0,3.15
+fever,"Pseudoephedrine-Ibuprofen, Brompheniram-PSE-Acetaminophen",On Label,OTC,Liquid (Drink),4.0,1.0,18.99,1.0,1.0
+fever,"Pseudoephedrine-Ibuprofen, Ibuprofen",On Label,OTC,Liquid (Drink),5.0,5.0,18.99,1.0,5.0
+fibromyalgia,Amitriptyline,Off Label,RX,Capsule,4.29,3.53,196.99,1126.0,3.15
+fibromyalgia,Amitriptyline,Off Label,RX,Tablet,4.016666666666667,3.0533333333333332,206.99,147.66666666666666,2.8066666666666666
+fibromyalgia,Cyclobenzaprine,Off Label,RX,Tablet,4.4275,3.6,20.39,370.75,3.3825000000000003
+fibromyalgia,Duloxetine,On Label,RX,Other,4.13,3.41,24.23,4647.0,3.08
+fibromyalgia,Duloxetine,On Label,RX,Tablet,3.9,4.006666666666667,177.25666666666666,88.33333333333333,3.473333333333333
+fibromyalgia,Milnacipran,On Label,RX,Tablet,4.29,3.57,477.99,9.0,3.57
+fibromyalgia,Mirtazapine,Off Label,RX,Tablet,4.153333333333333,3.293333333333333,52.99,316.3333333333333,2.9933333333333336
+fibromyalgia,Paroxetine Hcl,Off Label,RX,Tablet,4.237500000000001,3.45,99.74,405.5,3.0575
+fibromyalgia,Pramipexole,Off Label,RX,Liquid (Drink),4.43,4.43,421.99,18.0,4.0
+fibromyalgia,Pramipexole,Off Label,RX,Tablet,4.27,3.986666666666667,89.99,166.66666666666666,3.776666666666667
+fibromyalgia,Pregabalin,On Label,RX,Capsule,4.07,3.38,196.99,3066.0,3.0
+fibromyalgia,Tramadol-Acetaminophen,Off Label,RX,Tablet,4.235,3.195,26.89,154.5,3.0149999999999997
+flatulence,"Activated Charcoal-Simethicone, Simethicone",On Label,OTC,Liquid (Drink),1.0,1.0,11.9,1.0,1.0
+flatulence,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Magaldrate, Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Aluminum Hydrox-Magnesium Carb, Calcium And Magnesium Carbonat, Aluminum-Magnesium-Alginate, Calcium Carbonate, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),5.0,5.0,5.989999999999999,1.0,5.0
+flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,Liquid (Drink),3.7222222222222223,4.0,11.99,1.8888888888888888,3.5277777777777777
+flatulence,"Alum-Mag Hydroxide-Simeth, Calcium Carbonate-Simethicone",On Label,OTC,Liquid (Drink),5.0,5.0,11.99,2.0,5.0
+flatulence,"Aluminum-Magnesium Hydroxide, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),4.0,4.0,11.99,1.0,4.0
+flatulence,"Aluminum-Magnesium Hydroxide, Aluminum Hydrox-Magnesium Carb, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),5.0,3.0,11.99,1.0,3.0
+flatulence,"Aluminum-Magnesium Hydroxide, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),5.0,5.0,11.99,5.0,5.0
+flatulence,"Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Calcium And Magnesium Carbonat, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),4.67,4.5,11.99,8.0,4.33
+flatulence,"Aluminum-Magnesium-Alginate, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),5.0,1.0,11.99,1.0,1.0
+flatulence,"Calcium Carb-Mag Hydrox-Simeth, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),5.0,5.0,11.99,2.0,5.0
+flatulence,Calcium Carbonate-Mag Hydroxid,On Label,OTC,Liquid (Drink),4.0,4.0,11.99,1.0,5.0
+flatulence,"Calcium Carbonate-Mag Hydroxid, Alum-Mag Hydroxide-Simeth",On Label,OTC,Liquid (Drink),5.0,3.0,11.99,3.0,4.0
+flatulence,Calcium Carbonate-Simethicone,On Label,OTC,Liquid (Drink),5.0,5.0,11.99,2.75,5.0
+flatulence,Simethicone,On Label,OTC,Liquid (Drink),4.38875,3.70125,11.9,7.59375,3.7309375
+flatulence,"Simethicone, Alpha-D-Galactosidase",On Label,"
+",Liquid (Drink),5.0,3.0,11.9,1.0,3.0
+furunculosis,Gentamicin,On Label,RX,Liquid (Drink),5.0,3.75,22.99,2.0,3.75
+furunculosis,Mupirocin,Off Label,RX,Cream,4.68,4.455,52.99,28.5,4.045
+furunculosis,Mupirocin,Off Label,RX,Other,4.0,1.0,364.99,1.0,1.0
+furunculosis,"Mupirocin Calcium, Mupirocin",Off Label,RX,Cream,4.55,3.86,52.99,60.0,3.79
+gastroesophageal reflux disease,Al Hyd-Mg Tr-Alg Ac-Sod Bicarb,Off Label,OTC,Liquid (Drink),2.0,2.0,5.99,1.0,1.0
+gastroesophageal reflux disease,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Aluminum Hydrox-Magnesium Carb, Aluminum-Magnesium-Alginate",Off Label,OTC,Liquid (Drink),2.0,2.0,11.99,1.0,2.0
+gastroesophageal reflux disease,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Aluminum Hydrox-Magnesium Carb, Aluminum-Magnesium-Alginate, Calcium Carbonate",Off Label,OTC,Liquid (Drink),4.75,4.75,11.99,15.0,3.75
+gastroesophageal reflux disease,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Magaldrate, Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Aluminum Hydrox-Magnesium Carb, Calcium And Magnesium Carbonat, Aluminum-Magnesium-Alginate, Calcium Carbonate, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",Off Label,OTC,Liquid (Drink),5.0,5.0,5.989999999999999,1.0,5.0
+gastroesophageal reflux disease,Alum-Mag Hydroxide-Simeth,Off Label,OTC,Liquid (Drink),4.0,5.0,11.99,2.0,2.0
+gastroesophageal reflux disease,Aluminum Hydrox-Magnesium Carb,Off Label,OTC,Liquid (Drink),2.25,2.2933333333333334,11.99,5.333333333333333,2.2933333333333334
+gastroesophageal reflux disease,Aluminum Hydroxide Gel,Off Label,OTC,Liquid (Drink),5.0,5.0,14.99,1.5,5.0
+gastroesophageal reflux disease,Aluminum-Magnesium Hydroxide,Off Label,OTC,Liquid (Drink),5.0,1.0,5.99,1.0,1.0
+gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Alum-Mag Hydroxide-Simeth",Off Label,OTC,Liquid (Drink),4.0,4.0,11.99,1.0,4.0
+gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Aluminum Hydrox-Magnesium Carb, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",Off Label,OTC,Liquid (Drink),5.0,3.0,11.99,1.0,3.0
+gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",Off Label,OTC,Liquid (Drink),5.0,5.0,11.99,5.0,5.0
+gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Calcium And Magnesium Carbonat, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",Off Label,OTC,Liquid (Drink),4.67,4.5,11.99,8.0,4.33
+gastroesophageal reflux disease,"Aluminum-Magnesium-Alginate, Alum-Mag Hydroxide-Simeth",Off Label,OTC,Liquid (Drink),5.0,1.0,11.99,1.0,1.0
+gastroesophageal reflux disease,"Calcium Carbonate-Mag Hydroxid, Calcium Carbonate, Dihydroxyaluminum Sod Carb",Off Label,OTC,Liquid (Drink),1.0,1.0,5.99,1.0,1.0
+gastroesophageal reflux disease,"Calcium Carbonate-Mag Hydroxid, Dihydroxyaluminum Sod Carb",Off Label,OTC,Liquid (Drink),5.0,4.33,11.99,6.0,4.67
+gastroesophageal reflux disease,Cimetidine,On Label,OTC,Tablet,5.0,4.5,199.99,13.0,4.5
+gastroesophageal reflux disease,Cimetidine Hcl,On Label,RX,Liquid (Drink),5.0,5.0,11.99,1.0,5.0
+gastroesophageal reflux disease,Dexlansoprazole,On Label,RX,Capsule,4.546666666666667,4.026666666666666,340.99,187.66666666666666,3.4166666666666665
+gastroesophageal reflux disease,Erythromycin,Off Label,RX,Tablet,2.895,3.255,125.24,41.0,2.51
+gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,Liquid (Drink),2.96875,3.28125,332.63,2.75,3.25
+gastroesophageal reflux disease,Erythromycin Stearate,Off Label,RX,Tablet,3.6,4.0,161.19,5.666666666666667,3.733333333333333
+gastroesophageal reflux disease,Esomeprazole Magnesium,On Label,OTC,Capsule,3.67,3.33,236.99,5.0,3.0
+gastroesophageal reflux disease,Esomeprazole Magnesium,On Label,RX,Capsule,4.67,4.33,236.99,8.0,3.67
+gastroesophageal reflux disease,Esomeprazole Magnesium,On Label,RX/OTC,Capsule,4.23,3.5400000000000005,236.99,25.0,2.92
+gastroesophageal reflux disease,Esomeprazole Strontium,On Label,RX,Capsule,3.0,3.0,289.99,2.0,3.0
+gastroesophageal reflux disease,Famotidine,On Label,OTC,Tablet,4.9375,4.375,16.38,6.25,4.375
+gastroesophageal reflux disease,Famotidine,On Label,RX,Tablet,4.29,3.86,16.38,22.0,3.29
+gastroesophageal reflux disease,Famotidine,On Label,RX/OTC,Tablet,4.5,3.2000000000000006,16.38,38.0,3.0
+gastroesophageal reflux disease,Famotidine-Ca Carb-Mag Hydrox,On Label,OTC,Liquid (Drink),4.6675,3.9450000000000003,11.99,6.5,3.8600000000000003
+gastroesophageal reflux disease,Lansoprazole,On Label,OTC,Capsule,5.0,4.8149999999999995,184.99,12.5,4.5
+gastroesophageal reflux disease,Lansoprazole,On Label,RX,Capsule,4.825,4.3149999999999995,184.99,94.5,4.375
+gastroesophageal reflux disease,Lansoprazole,On Label,RX/OTC,Capsule,4.05,2.91,184.99,57.0,2.5
+gastroesophageal reflux disease,Magaldrate,Off Label,OTC,Liquid (Drink),5.0,5.0,5.99,1.0,5.0
+gastroesophageal reflux disease,Magnesium Hydroxide,Off Label,OTC,Liquid (Drink),4.0,4.0,12.23,1.0,4.0
+gastroesophageal reflux disease,Magnesium Hydroxide,On Label,OTC,Liquid (Drink),4.5,4.166666666666667,12.229999999999999,4.666666666666667,4.25
+gastroesophageal reflux disease,Magnesium Oxide,Off Label,RX/OTC,Liquid (Drink),3.83,3.37,21.99,63.0,3.27
+gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,Capsule,3.56,3.035,340.99,235.0,2.615
+gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,Liquid (Drink),4.67,4.0,12.23,6.0,3.33
+gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,Tablet,4.67,3.67,23.62,4.0,3.33
+gastroesophageal reflux disease,Nizatidine,On Label,RX,Capsule,4.5,4.0,145.99,6.0,4.0
+gastroesophageal reflux disease,Omeprazole,On Label,RX/OTC,Capsule,4.18,3.78,68.99,465.0,3.22
+gastroesophageal reflux disease,Omeprazole Magnesium,On Label,OTC,Other,4.4,4.01,22.29,178.0,3.16
+gastroesophageal reflux disease,Omeprazole Magnesium,On Label,RX/OTC,Capsule,4.23,3.77,68.99,37.0,3.5400000000000005
+gastroesophageal reflux disease,"Omeprazole, Omeprazole Magnesium",On Label,RX,Capsule,4.53,4.07,68.99,254.0,3.4
+gastroesophageal reflux disease,Omeprazole-Sodium Bicarbonate,On Label,OTC,Capsule,4.27,3.55,20.99,24.0,3.55
+gastroesophageal reflux disease,Omeprazole-Sodium Bicarbonate,On Label,RX,Capsule,4.37,4.05,20.99,165.0,3.47
+gastroesophageal reflux disease,Omeprazole-Sodium Bicarbonate,On Label,RX/OTC,Capsule,4.88,4.63,20.99,10.0,4.38
+gastroesophageal reflux disease,Pantoprazole,Off Label,RX,Tablet,4.27,3.615,102.99,302.0,3.305
+gastroesophageal reflux disease,Pantoprazole,On Label,RX,Tablet,5.0,5.0,102.99,3.0,5.0
+gastroesophageal reflux disease,Rabeprazole,On Label,RX,Tablet,4.51,3.95,293.99,161.0,3.8
+gastroesophageal reflux disease,Ranitidine Hcl,On Label,OTC,Tablet,4.41625,3.66625,23.62,3.375,3.41625
+gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX,Tablet,4.25,2.8,23.62,3.75,2.45
+gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX/OTC,Tablet,4.47625,4.1675,23.62,99.875,3.90125
+gastroesophageal reflux disease,Sucralfate,Off Label,RX,Tablet,3.5700000000000003,3.985,68.99,106.0,3.73
+genital herpes simplex,Acyclovir,On Label,RX,Tablet,3.936,3.586,42.99,27.8,3.618
+genital herpes simplex,Acyclovir Sodium,On Label,RX,Liquid (Inject),3.75,3.5,167.99,6.0,3.335
+genital herpes simplex,Acyclovir-Hydrocortisone,Off Label,RX,Cream,2.895,2.785,1379.93,7.5,2.715
+genital herpes simplex,Valacyclovir,On Label,RX,Tablet,4.38,4.125,222.79,248.0,3.88
+gout,"Acetaminophen-Pamabrom, Ibuprofen",Off Label,OTC,Tablet,5.0,5.0,13.49,2.0,5.0
+gout,Celecoxib,Off Label,RX,Capsule,3.985,3.425,215.99,394.0,3.1550000000000002
+gout,Diclofenac Potassium,Off Label,RX,Capsule,4.25,3.71,423.99,57.0,3.46
+gout,Diclofenac Potassium,Off Label,RX,Tablet,4.456666666666667,3.876666666666667,43.99,73.33333333333333,3.6666666666666665
+gout,Diclofenac Sodium,Off Label,RX,Cream,4.23,3.7466666666666666,54.99,483.0,3.4233333333333333
+gout,Diclofenac Sodium,Off Label,RX,Tablet,4.04,4.09,72.99,44.0,3.87
+gout,Diclofenac-Misoprostol,Off Label,RX,Tablet,4.266666666666667,4.069999999999999,189.99,104.33333333333333,3.4933333333333336
+gout,Diflunisal,Off Label,RX,Tablet,4.335,3.9,21.39,17.5,3.525
+gout,Etodolac,Off Label,RX,Tablet,4.18,3.2600000000000002,66.99,175.0,3.25
+gout,Fenoprofen,Off Label,RX,Tablet,4.61,3.4433333333333334,99.58999999999999,6.666666666666667,3.4433333333333334
+gout,Flurbiprofen,Off Label,RX,Tablet,4.665,4.75,99.49,7.0,4.415
+gout,Ibuprofen,Off Label,OTC,Tablet,4.333333333333333,4.0775,13.49,5.916666666666667,3.9516666666666667
+gout,Ibuprofen,Off Label,RX,Tablet,4.375,4.125,13.49,1.5,3.5
+gout,Ibuprofen,Off Label,RX/OTC,Tablet,4.08,3.505,13.49,150.0,3.385
+gout,Ibuprofen-Famotidine,Off Label,RX,Tablet,4.635,4.59,997.39,24.5,4.525
+gout,Indomethacin,On Label,RX,Capsule,4.397777777777778,3.663333333333333,15.99,133.66666666666666,3.598888888888889
+gout,Ketoprofen,Off Label,OTC,Tablet,4.5,4.5,13.49,2.5,4.5
+gout,Ketoprofen,Off Label,RX,Tablet,4.21,4.25,37.44,17.25,4.25
+gout,Meclofenamate,Off Label,RX,Capsule,4.715,4.43,159.59,6.5,4.43
+gout,Mefenamic Acid,Off Label,RX,Capsule,4.345,3.65,368.99,38.0,3.66
+gout,Meloxicam,Off Label,RX,Tablet,4.195,3.42,32.99,813.0,3.12
+gout,Naproxen,Off Label,RX,Tablet,5.0,1.0,24.49,1.0,1.0
+gout,Naproxen,On Label,RX,Tablet,3.6760000000000006,3.0,15.59,469.6,2.616
+gout,Naproxen Sodium,Off Label,OTC,Tablet,4.248,3.8,61.39,39.4,4.026
+gout,Naproxen Sodium,Off Label,RX,Tablet,4.3966666666666665,4.11,61.39000000000001,10.0,4.11
+gout,Naproxen Sodium,On Label,RX,Tablet,4.335,3.665,61.39,7.0,3.5
+gout,Naproxen Sodium,On Label,RX/OTC,Tablet,4.23,3.12,61.39,104.0,2.73
+gout,Oxaprozin,Off Label,RX,Tablet,4.18,3.4,193.99,58.5,3.2
+gout,Piroxicam,Off Label,RX,Capsule,4.135,3.8850000000000002,57.59,85.5,3.4850000000000003
+gout,"Pseudoephedrine-Ibuprofen, Ibuprofen",Off Label,OTC,Liquid (Drink),5.0,5.0,18.99,1.0,5.0
+gout,Tolmetin,Off Label,RX,Tablet,3.0,3.0,42.156666666666666,3.0,3.0
+hemorrhoids,"Bismuth Subg-Balsam-Znox-Resor, Starch, Pramoxine-Mineral Oil-Zinc",On Label,OTC,Other,3.5,3.5,154.02,9.0,3.75
+hemorrhoids,"Cocoa Butter-Zinc Oxide, Zinc Oxide",On Label,OTC,Other,4.67,3.33,19.44,5.0,3.33
+hemorrhoids,"Diphenhydramine-Calamine, Pramoxine-Calamine",On Label,OTC,Liquid (Drink),5.0,3.0,9.68,1.0,4.0
+hemorrhoids,Hydrocortisone,Off Label,OTC,Cream,5.0,4.0,14.59,1.0,4.0
+hemorrhoids,Hydrocortisone,Off Label,RX,Cream,4.0,3.0,14.59,1.5,2.5
+hemorrhoids,Hydrocortisone,Off Label,RX,Other,3.6666666666666665,3.8333333333333335,154.02,4.0,3.3333333333333335
+hemorrhoids,Hydrocortisone,Off Label,RX/OTC,Cream,4.2,4.2,14.59,34.0,4.0
+hemorrhoids,Hydrocortisone Acetate,Off Label,OTC,Other,3.6,2.4,154.02,5.0,2.4
+hemorrhoids,Hydrocortisone Acetate,Off Label,RX/OTC,Cream,4.0,2.0,14.59,1.0,2.0
+hemorrhoids,Hydrocortisone Acetate,On Label,RX,Other,3.783333333333333,2.611666666666667,154.02,21.666666666666668,2.348333333333333
+hemorrhoids,"Hydrocortisone Acetate, Bismuth Subg-Balsam-Znox-Resor",On Label,RX/OTC,Other,1.0,1.0,154.02,2.0,1.0
+hemorrhoids,"Hydrocortisone Acetate, Hydrocortison-Resor-Bismth-Zno, Hydrocortisone",On Label,RX,Other,4.0,4.0,154.02,11.0,3.2
+hemorrhoids,Lidocaine,On Label,OTC,Other,4.6000000000000005,4.133333333333334,294.99,6.666666666666667,4.133333333333334
+hemorrhoids,Lidocaine,On Label,RX/OTC,Other,3.75,3.31,294.99,21.0,3.25
+hemorrhoids,Lidocaine-Hydrocortisone-Aloe,On Label,RX,Cream,3.3333333333333335,4.666666666666667,53.99,1.6666666666666667,4.333333333333333
+hemorrhoids,Phenyleph-Min Oil-Petrolatum,On Label,OTC,Cream,4.0,5.0,11.99,1.0,5.0
+hemorrhoids,Phenyleph-Pramoxin-Glycr-W.Pet,On Label,OTC,Cream,3.6,3.1,11.99,3.0,3.4
+hemorrhoids,"Phenyleph-Shark Oil-Cocoa Butr, Skin Rsp Ftr-Srk Liv-Phenylmer, Phenyleph-Shark Liv Oil-Mo-Pet",On Label,OTC,Cream,4.0,4.0,11.99,1.0,4.0
+hemorrhoids,"Phenyleph-Shark Oil-Glyc-Pet, Phenyleph-Min Oil-Petrolatum, Cocoa Butter-Shark Liver Oil",On Label,OTC,Cream,3.56,2.75,11.99,20.0,2.63
+hemorrhoids,Phenylephrine Hcl,On Label,OTC,Other,3.0,3.0,154.02,3.0,1.0
+hemorrhoids,"Phenylephrine Hcl, Bismuth Subg-Balsam-Znox-Resor",On Label,OTC,Other,2.5,4.0,154.02,2.0,3.5
+hemorrhoids,Phenylephrine-Cocoa Butter,On Label,OTC,Cream,4.0,3.5,11.99,1.5,4.5
+hemorrhoids,Phenylephrine-Witch Hazel,On Label,OTC,Cream,4.0,2.86,11.99,7.0,2.0
+hemorrhoids,"Phenylephrine-Zinc Oxide, Phenylephrn-Pramoxine-Mo-W.Pet",On Label,OTC,Other,5.0,5.0,154.02,1.0,5.0
+hemorrhoids,Pramoxine,On Label,OTC,Cream,2.67,2.67,81.99,5.0,2.33
+hemorrhoids,Pramoxine-Calamine,On Label,OTC,Liquid (Drink),3.0,5.0,9.68,1.0,5.0
+hemorrhoids,"Pramoxine-Calamine-Camphor, Pramoxine-Calamine",On Label,OTC,Liquid (Drink),5.0,5.0,9.68,7.0,5.0
+hemorrhoids,Pramoxine-Zinc Acetate,On Label,OTC,Liquid (Drink),5.0,5.0,6.03,2.0,5.0
+hemorrhoids,Pramoxine-Zinc Oxide,On Label,OTC,Cream,5.0,5.0,11.99,3.0,5.0
+hemorrhoids,"Starch, Pramoxine-Mineral Oil-Zinc",On Label,OTC,Other,5.0,5.0,154.02,2.0,5.0
+hemorrhoids,Zinc Oxide,On Label,OTC,Other,1.0,1.0,19.44,1.0,1.0
+herpes zoster,Acyclovir,On Label,RX,Tablet,3.5,4.25,42.99,47.0,3.75
+herpes zoster,Acyclovir Sodium,On Label,RX,Liquid (Inject),3.75,3.5,167.99,6.0,3.335
+herpes zoster,Famciclovir,On Label,RX,Tablet,4.13,3.92,176.79,61.0,3.33
+herpes zoster,Valacyclovir,On Label,RX,Tablet,4.38,4.125,222.79,248.0,3.88
+hypercholesterolemia,Alirocumab,On Label,RX,Liquid (Inject),4.43,4.29,1387.99,8.0,3.86
+hypercholesterolemia,Amlodipine-Atorvastatin,On Label,RX,Tablet,4.125,3.7800000000000002,146.99,26.0,3.565
+hypercholesterolemia,Atorvastatin,On Label,RX,Tablet,3.82,3.355,249.99,577.5,2.5
+hypercholesterolemia,Cholestyramine (With Sugar),On Label,RX,Tablet,4.35,4.3,56.49,27.0,4.1
+hypercholesterolemia,Cholestyramine-Aspartame,On Label,RX,Cream,4.061999999999999,4.287999999999999,79.46,35.2,3.9539999999999997
+hypercholesterolemia,Colestipol,On Label,RX,Tablet,4.224,4.248,56.489999999999995,34.4,4.311999999999999
+hypercholesterolemia,Evolocumab,On Label,RX,Liquid (Inject),4.43,4.43,1336.12,15.666666666666666,3.8066666666666666
+hypercholesterolemia,Ezetimibe,On Label,RX,Tablet,3.86,2.96,62.99,390.0,2.46
+hypercholesterolemia,Ezetimibe-Simvastatin,On Label,RX,Tablet,4.48,4.43,225.99,56.0,3.5966666666666662
+hypercholesterolemia,Fenofibrate,On Label,RX,Tablet,3.013333333333333,2.61,59.59,45.333333333333336,2.2533333333333334
+hypercholesterolemia,Fenofibrate Micronized,On Label,RX,Tablet,4.33,3.67,59.59,13.0,3.67
+hypercholesterolemia,"Fenofibrate Micronized, Fenofibrate",On Label,RX,Tablet,5.0,5.0,59.59,4.0,4.5
+hypercholesterolemia,"Fenofibrate Micronized, Fenofibrate Nanocrystallized",On Label,RX,Tablet,4.01,3.16,59.59,289.0,2.4
+hypercholesterolemia,Fenofibrate Nanocrystallized,On Label,RX,Tablet,3.2,4.3,59.59,7.0,3.1
+hypercholesterolemia,Fenofibric Acid,On Label,RX,Capsule,5.0,3.0,155.99,7.0,2.33
+hypercholesterolemia,Fenofibric Acid (Choline),On Label,RX,Capsule,2.585,2.0700000000000003,155.99,98.0,1.655
+hypercholesterolemia,Fluvastatin,On Label,RX,Capsule,4.6000000000000005,3.9333333333333336,127.99,7.0,3.233333333333333
+hypercholesterolemia,Fluvastatin,On Label,RX,Tablet,4.36,3.71,137.99,19.0,3.21
+hypercholesterolemia,Lovastatin,On Label,RX,Liquid (Inject),3.0,3.0,1336.12,1.0,3.0
+hypercholesterolemia,Lovastatin,On Label,RX,Tablet,3.84,3.19,216.99,65.33333333333333,3.02
+hypercholesterolemia,Niacin,On Label,"
+",Liquid (Inject),3.56,3.19,1336.12,42.0,3.13
+hypercholesterolemia,Niacin,On Label,"
+",Tablet,4.43,4.0,59.59,13.0,4.29
+hypercholesterolemia,Niacin,On Label,OTC,Capsule,3.0,3.0,155.99,3.0,3.0
+hypercholesterolemia,Niacin,On Label,OTC,Liquid (Inject),2.0,5.0,1336.12,1.0,3.0
+hypercholesterolemia,Niacin,On Label,RX,Liquid (Inject),1.0,1.0,1336.12,1.0,1.0
+hypercholesterolemia,Niacin,On Label,RX,Tablet,3.215,2.875,127.74,154.0,2.41
+hypercholesterolemia,Niacin,On Label,RX/OTC,Capsule,3.0,4.5,127.99,2.0,4.5
+hypercholesterolemia,Niacin,On Label,RX/OTC,Tablet,3.53,3.41,56.49,46.0,3.18
+hypercholesterolemia,Pitavastatin Calcium,On Label,RX,Tablet,2.9749999999999996,3.3049999999999997,365.39,96.5,2.58
+hypercholesterolemia,Pravastatin,On Label,RX,Tablet,3.7,2.8,139.49,324.0,2.025
+hypercholesterolemia,Rosuvastatin,On Label,RX,Tablet,4.035,3.23,195.89,402.0,2.56
+hypercholesterolemia,Simvastatin,On Label,RX,Tablet,3.815,3.1,28.99,806.0,2.24
+hypertension,Acebutolol,On Label,RX,Capsule,4.325,3.75,24.49,14.5,4.2
+hypertension,Aliskiren,On Label,RX,Tablet,4.03,3.09,81.99,178.0,2.63
+hypertension,Amiloride-Hydrochlorothiazide,On Label,RX,Capsule,2.665,2.5,172.39,6.5,2.165
+hypertension,Amlodipine,On Label,RX,Tablet,3.92,3.27,57.99,730.0,2.605
+hypertension,Amlodipine-Atorvastatin,On Label,RX,Tablet,4.125,3.7800000000000002,146.99,26.0,3.565
+hypertension,Amlodipine-Benazepril,On Label,RX,Capsule,4.199999999999999,3.805,88.99,184.0,3.185
+hypertension,Amlodipine-Olmesartan,On Label,RX,Tablet,4.1899999999999995,3.45,296.99,163.0,2.47
+hypertension,Amlodipine-Valsartan,On Label,RX,Tablet,4.140000000000001,3.855,143.99,133.0,3.17
+hypertension,Amlodipine-Valsartan-Hcthiazid,On Label,RX,Tablet,4.125,3.74,239.99,28.5,3.41
+hypertension,Atenolol,On Label,RX,Tablet,4.6000000000000005,3.81,16.39,446.0,3.51
+hypertension,Atenolol-Chlorthalidone,On Label,RX,Tablet,4.403333333333333,3.856666666666667,46.81,30.333333333333332,3.0033333333333334
+hypertension,Azilsartan Med-Chlorthalidone,On Label,RX,Liquid (Drink),4.42,4.34,255.99,37.5,3.7649999999999997
+hypertension,Azilsartan Medoxomil,On Label,RX,Tablet,4.535,4.42,248.99,35.5,3.955
+hypertension,Benazepril,On Label,RX,Capsule,3.75,3.69,79.99,18.0,3.06
+hypertension,Benazepril,On Label,RX,Tablet,4.01,3.57,126.99,113.0,3.16
+hypertension,Benazepril-Hydrochlorothiazide,On Label,RX,Tablet,4.475,4.0,77.99,40.0,3.165
+hypertension,Betaxolol,On Label,RX,Tablet,4.5,4.5,45.49,5.5,4.5
+hypertension,Bisoprolol Fumarate,On Label,RX,Tablet,4.22,3.4299999999999997,50.99,52.5,2.95
+hypertension,Bisoprolol-Hydrochlorothiazide,On Label,RX,Tablet,4.135,3.635,13.16,50.5,3.24
+hypertension,Bumetanide,Off Label,RX,Tablet,4.335,3.8899999999999997,66.99,27.0,3.62
+hypertension,Candesartan,On Label,RX,Tablet,4.27,4.025,126.99,65.5,3.4
+hypertension,Candesartan-Hydrochlorothiazid,On Label,RX,Tablet,4.58,4.42,87.3,16.0,4.335
+hypertension,Captopril,On Label,RX,Tablet,3.415,2.88,31.99,11.0,2.7
+hypertension,Captopril-Hydrochlorothiazide,On Label,RX,Tablet,4.0,3.67,48.99,4.0,3.67
+hypertension,Carvedilol,On Label,RX,Tablet,3.66,3.1799999999999997,81.99,333.0,2.685
+hypertension,Carvedilol Phosphate,On Label,RX,Capsule,3.61,2.84,265.99,66.0,2.42
+hypertension,Chlorothiazide,On Label,RX,Tablet,4.0,3.4,50.49,5.0,3.1
+hypertension,Chlorthalidone,On Label,RX,Tablet,4.3,2.6733333333333333,37.99,24.333333333333332,2.4166666666666665
+hypertension,Clonidine,On Label,RX,Other,4.297499999999999,4.202500000000001,173.99,14.25,3.535
+hypertension,Clonidine Hcl,Off Label,RX,Tablet,4.83,3.67,122.99,10.0,3.0
+hypertension,Clonidine Hcl,On Label,RX,Tablet,3.7600000000000002,3.42,20.99,312.3333333333333,2.6666666666666665
+hypertension,Diltiazem Hcl,Off Label,RX,Tablet,3.95,3.55,146.99,45.0,2.7
+hypertension,Diltiazem Hcl,On Label,RX,Liquid (Drink),4.0,4.0,255.99,2.0,2.0
+hypertension,Diltiazem Hcl,On Label,RX,Tablet,4.044666666666667,3.2053333333333334,91.886,83.33333333333333,2.7993333333333337
+hypertension,Doxazosin,On Label,RX,Capsule,3.73,3.2,68.89,55.0,2.83
+hypertension,Doxazosin,On Label,RX,Tablet,4.46,3.09,126.99,103.0,2.81
+hypertension,Enalapril Maleate,On Label,RX,Tablet,4.283333333333334,3.6333333333333333,21.99,134.66666666666666,3.0566666666666666
+hypertension,Enalapril-Hydrochlorothiazide,On Label,RX,Tablet,4.345000000000001,4.125,33.99,10.5,3.5
+hypertension,Eplerenone,On Label,RX,Tablet,3.75,3.415,119.99,14.5,3.3049999999999997
+hypertension,Eprosartan,On Label,RX,Tablet,4.96,4.875,120.42,11.0,4.71
+hypertension,Ethacrynic Acid,Off Label,RX,Tablet,4.0,4.33,94.99,12.0,3.0
+hypertension,Felodipine,On Label,RX,Tablet,4.265000000000001,3.795,61.99,34.0,3.245
+hypertension,Fosinopril,On Label,RX,Tablet,4.705,4.225,34.59,18.0,3.905
+hypertension,Fosinopril-Hydrochlorothiazide,On Label,RX,Tablet,2.0,1.5,54.99,3.0,1.0
+hypertension,Furosemide,On Label,RX,Tablet,3.89,2.7533333333333334,11.99,140.5,2.486666666666667
+hypertension,Guanfacine,On Label,RX,Tablet,3.94,3.39,40.99,67.0,3.16
+hypertension,Hydralazine,On Label,RX,Capsule,3.1,2.57,88.99,131.0,2.02
+hypertension,Hydralazine,On Label,RX,Tablet,1.3199999999999998,1.835,49.400000000000006,9.0,1.4100000000000001
+hypertension,Hydrochlorothiazide,On Label,RX,Tablet,4.005,3.46875,11.99,111.25,2.96375
+hypertension,Indapamide,On Label,RX,Tablet,4.56,3.615,21.99,17.0,3.15
+hypertension,Irbesartan-Hydrochlorothiazide,On Label,RX,Tablet,3.96,3.665,147.99,87.0,3.15
+hypertension,Isradipine,On Label,RX,Capsule,4.203333333333333,3.4066666666666663,79.99,12.333333333333334,2.8633333333333333
+hypertension,Labetalol,On Label,RX,Tablet,3.9675000000000002,3.35,48.99,40.25,3.185
+hypertension,Lisinopril,On Label,RX,Tablet,4.076666666666667,3.4499999999999997,14.79,2867.0,2.6533333333333338
+hypertension,Lisinopril-Hydrochlorothiazide,On Label,RX,Tablet,4.066666666666666,3.6999999999999997,22.99,194.0,3.0033333333333334
+hypertension,Losartan,On Label,RX,Tablet,3.74,2.98,67.99,595.0,2.49
+hypertension,Losartan-Hydrochlorothiazide,On Label,RX,Tablet,4.115,3.5700000000000003,104.99,181.5,2.98
+hypertension,Methyldopa,On Label,RX,Tablet,3.59,3.68,17.29,23.0,2.86
+hypertension,Methyldopa-Hydrochlorothiazide,On Label,RX,Tablet,5.0,4.666666666666667,120.99,1.0,4.333333333333333
+hypertension,Metolazone,On Label,RX,Tablet,4.01,3.4450000000000003,63.989999999999995,19.0,2.755
+hypertension,Metoprolol Su-Hydrochlorothiaz,On Label,RX,Tablet,3.17,3.5,810.99,8.0,2.5
+hypertension,Metoprolol Succinate,On Label,RX,Tablet,3.94,3.365,40.99,695.5,2.8499999999999996
+hypertension,Metoprolol Ta-Hydrochlorothiaz,On Label,RX,Tablet,4.51,4.355,52.79,14.0,4.17
+hypertension,Metoprolol Tartrate,On Label,RX,Tablet,3.935,3.3200000000000003,107.49000000000001,369.5,2.8049999999999997
+hypertension,Minoxidil,On Label,RX,Tablet,3.54,3.21,87.3,30.0,2.89
+hypertension,Moexipril,On Label,RX,Tablet,3.96,4.5,32.99,4.5,3.71
+hypertension,Nadolol,On Label,RX,Tablet,4.625,4.5,70.99,39.5,4.22
+hypertension,Nebivolol,On Label,RX,Tablet,4.13,3.6399999999999997,180.99,458.0,3.24
+hypertension,Nicardipine,On Label,RX,Liquid (Drink),1.0,1.0,255.99,2.0,1.0
+hypertension,Nicardipine,On Label,RX,Tablet,5.0,5.0,33.99,4.0,4.0
+hypertension,Nifedipine,On Label,RX,Tablet,4.031428571428571,3.7314285714285718,36.66428571428571,45.714285714285715,2.994285714285714
+hypertension,Nisoldipine,On Label,RX,Tablet,3.88,3.165,162.99,24.5,2.575
+hypertension,Olmesartan,On Label,RX,Tablet,4.095000000000001,3.8200000000000003,160.99,310.5,3.215
+hypertension,Olmesartan-Amlodipin-Hcthiazid,On Label,RX,Tablet,4.625,3.86,242.99,53.0,3.485
+hypertension,Perindopril Erbumine,On Label,RX,Tablet,4.07,3.675,54.99,18.5,3.4
+hypertension,Perindopril-Amlodipine,On Label,RX,Tablet,5.0,5.0,169.52,1.0,4.0
+hypertension,Pindolol,On Label,RX,Tablet,2.68,4.59,57.99,9.5,2.225
+hypertension,Prazosin,On Label,RX,Capsule,4.195,3.7649999999999997,29.99,57.5,3.58
+hypertension,Propranolol,On Label,RX,Tablet,4.44,3.8655555555555554,81.99,193.77777777777777,3.6966666666666663
+hypertension,Propranolol-Hydrochlorothiazid,On Label,RX,Tablet,4.07,2.785,39.29,6.0,2.145
+hypertension,Quinapril,On Label,RX,Tablet,4.234999999999999,3.74,15.69,47.5,3.49
+hypertension,Quinapril-Hydrochlorothiazide,On Label,RX,Tablet,4.239999999999999,4.0,72.99,6.666666666666667,3.1566666666666667
+hypertension,Ramipril,On Label,RX,Capsule,4.43,3.92,54.99,156.0,3.5
+hypertension,Spironolacton-Hydrochlorothiaz,On Label,RX,Tablet,4.125,3.36,29.47,6.75,2.9175
+hypertension,Spironolactone,On Label,RX,Tablet,4.380000000000001,3.915,23.39,228.5,3.375
+hypertension,Telmisartan,On Label,RX,Tablet,3.83,3.65,146.99,104.5,3.165
+hypertension,Telmisartan-Amlodipine,On Label,RX,Tablet,4.445,4.27,155.99,14.0,4.32
+hypertension,Telmisartan-Hydrochlorothiazid,On Label,RX,Tablet,3.535,3.5700000000000003,132.7,82.0,3.2
+hypertension,Terazosin,On Label,RX,Capsule,4.0,3.335,68.89,97.0,3.0
+hypertension,Timolol Maleate,On Label,RX,Liquid (Drink),3.0,3.0,12.99,2.0,3.0
+hypertension,Torsemide,On Label,RX,Tablet,3.55,3.51,25.99,29.0,2.885
+hypertension,Trandolapril,On Label,RX,Tablet,4.04,4.09,51.99,17.0,3.525
+hypertension,Trandolapril-Verapamil,On Label,RX,Tablet,4.745,4.13,159.99,20.0,3.9850000000000003
+hypertension,Triamterene,Off Label,RX,Capsule,4.0,3.33,172.39,7.0,1.67
+hypertension,Triamterene-Hydrochlorothiazid,On Label,RX,Tablet,3.782,3.2340000000000004,11.49,54.0,2.7880000000000003
+hypertension,"Triamterene-Hydrochlorothiazid, Trichlormethiazide",On Label,RX,Tablet,1.0,2.0,11.49,2.0,1.0
+hypertension,Valsartan,On Label,RX,Tablet,3.9699999999999998,3.3099999999999996,111.99,470.5,2.8200000000000003
+hypertension,Valsartan-Hydrochlorothiazide,On Label,RX,Tablet,4.19,3.85,225.99,418.0,3.29
+hypertension,Verapamil,On Label,RX,Capsule,5.0,4.0,172.39,6.0,4.0
+hypertension,Verapamil,On Label,RX,Other,5.0,5.0,173.99,8.0,5.0
+hypertension,Verapamil,On Label,RX,Tablet,4.131666666666667,3.3983333333333334,26.689999999999998,113.0,3.0933333333333333
+impetigo,Cefuroxime Axetil,On Label,RX,Tablet,3.34,3.19,86.99,126.5,2.59
+impetigo,Mupirocin,On Label,RX,Cream,4.36,3.91,52.99,52.0,3.09
+impetigo,Mupirocin,On Label,RX,Other,4.0,1.0,364.99,1.0,1.0
+impetigo,"Mupirocin Calcium, Mupirocin",On Label,RX,Cream,4.55,3.86,52.99,60.0,3.79
+impetigo,Retapamulin,On Label,RX,Cream,4.095000000000001,3.94,363.99,14.5,3.9050000000000002
+meniere's disease,Dimenhydrinate,Off Label,OTC,Other,4.734,4.134,8.49,7.2,3.134
+meniere's disease,Dimenhydrinate,Off Label,OTC,Tablet,5.0,5.0,4.0,1.0,5.0
+oral candidiasis,Clotrimazole,On Label,RX,Cream,4.0600000000000005,2.725,35.99,18.0,2.8200000000000003
+oral candidiasis,Fluconazole,On Label,RX,Tablet,4.415,3.5999999999999996,20.39,196.5,3.22
+oral candidiasis,Nystatin,On Label,RX,Cream,3.48,3.2085714285714286,26.99,37.142857142857146,2.8628571428571425
+prevention of cerebrovascular accident,Amlodipine-Atorvastatin,On Label,RX,Tablet,4.125,3.7800000000000002,146.99,26.0,3.565
+prevention of cerebrovascular accident,Aspirin,On Label,OTC,Tablet,3.4,3.0,11.99,2.0,3.1
+prevention of cerebrovascular accident,Aspirin,On Label,RX/OTC,Tablet,4.64,4.27,11.99,55.0,4.55
+prevention of cerebrovascular accident,Atorvastatin,On Label,RX,Tablet,3.82,3.355,249.99,577.5,2.5
+prevention of cerebrovascular accident,Evolocumab,On Label,RX,Liquid (Inject),4.43,4.43,1336.12,15.666666666666666,3.8066666666666666
+prevention of cerebrovascular accident,Fluvastatin,Off Label,RX,Capsule,4.6000000000000005,3.9333333333333336,127.99,7.0,3.233333333333333
+prevention of cerebrovascular accident,Fluvastatin,Off Label,RX,Tablet,4.36,3.71,137.99,19.0,3.21
+prevention of cerebrovascular accident,Lovastatin,Off Label,RX,Tablet,3.63,3.1425,79.49000000000001,49.25,3.015
+prevention of cerebrovascular accident,Pravastatin,On Label,RX,Capsule,3.74,2.75,54.99,114.0,1.98
+prevention of cerebrovascular accident,Pravastatin,On Label,RX,Tablet,3.66,2.85,28.99,534.0,2.07
+prevention of cerebrovascular accident,Ramipril,On Label,RX,Capsule,4.43,3.92,54.99,156.0,3.5
+prevention of cerebrovascular accident,Rosuvastatin,On Label,RX,Tablet,4.035,3.23,195.89,402.0,2.56
+prevention of cerebrovascular accident,Simvastatin,On Label,RX,Tablet,3.815,3.1,28.99,806.0,2.24
+prevention of cerebrovascular accident,Telmisartan,On Label,RX,Tablet,3.83,3.65,146.99,104.5,3.165
+pyelonephritis,Levofloxacin,On Label,RX,Tablet,3.5828571428571427,3.172857142857143,172.99,395.2857142857143,2.4957142857142856
+pyelonephritis,Levofloxacin In D5W,On Label,RX,Tablet,3.5,1.5,172.99,3.0,1.0
+scabies,Crotamiton,On Label,RX,Cream,4.33,4.0,606.99,10.0,3.5
+scabies,Lindane,On Label,RX,Liquid (Drink),3.665,2.835,137.96,6.0,2.7800000000000002
+scabies,Permethrin,On Label,RX,Cream,4.68,2.4299999999999997,145.99,7.0,2.34
+scabies,Permethrin,On Label,RX/OTC,Cream,3.65,2.58,145.99,52.0,2.31
+sore throat,Acetaminophen-DM,On Label,OTC,Liquid (Drink),3.6666666666666665,2.6666666666666665,10.39,1.0,3.0
+sore throat,Benzocaine,On Label,OTC,Cream,4.5,3.0,46.44,2.0,2.5
+sore throat,Chlorpheniram-DM-Acetaminophen,On Label,OTC,Liquid (Drink),5.0,4.0,8.79,1.0,3.5
+sore throat,Chlorpheniram-DM-Acetaminophen,On Label,OTC,Other,5.0,5.0,19.99,8.0,5.0
+sore throat,DM-Benzocaine-Menthol,On Label,OTC,Liquid (Drink),1.0,1.0,8.79,1.0,1.0
+sore throat,Dextromethorphan-Benzocaine,On Label,OTC,Liquid (Drink),4.0,4.0,9.59,1.0,4.0
+sore throat,Dextromethorphan-Benzocaine,On Label,OTC,Other,5.0,5.0,19.99,7.0,4.5
+sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,Liquid (Drink),4.211818181818182,3.3636363636363638,9.422727272727274,2.090909090909091,3.227272727272727
+vertigo,Dimenhydrinate,On Label,OTC,Other,4.734,4.134,8.49,7.2,3.134
+vertigo,Dimenhydrinate,On Label,OTC,Tablet,5.0,5.0,4.0,1.0,5.0
+vertigo,Diphenhydramine Citrate,On Label,OTC,Other,4.6,4.3,8.49,17.0,4.1
+vertigo,Diphenhydramine Hcl,On Label,OTC,Liquid (Drink),4.45,3.6799999999999997,8.79,168.0,3.4099999999999997
+vertigo,Diphenhydramine Hcl,On Label,OTC,Other,4.071724137931034,3.5234482758620693,9.283103448275861,3.206896551724138,3.3727586206896554
+vertigo,Diphenhydramine Hcl,On Label,OTC,Tablet,4.365384615384615,3.9296153846153845,15.538846153846153,3.6923076923076925,3.763076923076923
+vertigo,Diphenhydramine Hcl,On Label,RX/OTC,Liquid (Drink),4.41,3.83,8.79,188.0,3.5
+vertigo,"Diphenhydramine Hcl, Clemastine-Phenylprop, Triprolidine-Pseudoephedrine",On Label,OTC,Tablet,5.0,4.0,19.79,2.0,4.0
+vertigo,"Diphenhydramine Hcl, Dextromethorphan-Guaifenesin, Dextromethorphan Hbr",On Label,OTC,Other,5.0,1.0,19.99,1.0,1.0
+vertigo,"Diphenhydramine Hcl, Diphenhydramine Citrate",On Label,OTC,Tablet,4.0,3.5,19.79,6.0,3.5
+vertigo,Meclizine,On Label,OTC,Tablet,4.432857142857143,4.161428571428571,19.79,7.285714285714286,4.0
+vertigo,Meclizine,On Label,RX,Tablet,4.1850000000000005,3.465,19.79,41.5,3.205
+vertigo,Meclizine,On Label,RX/OTC,Tablet,3.33,2.33,19.79,3.0,2.0
+vulvovaginal candidiasis,Butoconazole Nitrate,On Label,OTC,Other,5.0,5.0,125.99,1.0,5.0
+vulvovaginal candidiasis,Butoconazole Nitrate,On Label,RX,Other,5.0,5.0,125.99,1.0,5.0
+vulvovaginal candidiasis,Clotrimazole,On Label,OTC,Cream,4.625,4.75,25.63,1.75,4.75
+vulvovaginal candidiasis,Fluconazole,On Label,RX,Tablet,4.415,3.5999999999999996,17.99,196.5,3.22
+vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,Cream,3.575714285714286,2.7085714285714286,13.99,63.142857142857146,2.1928571428571426
+vulvovaginal candidiasis,Miconazole Nitrate,On Label,RX/OTC,Cream,3.465,2.77,13.99,19.5,2.3449999999999998
+vulvovaginal candidiasis,Miconazole-Skin Clnsr17,On Label,OTC,Cream,4.75,3.0,13.99,4.0,3.0
+vulvovaginal candidiasis,Miconazole-Skin Clnsr17,On Label,OTC,Other,4.0,1.0,125.99,1.0,1.0
+vulvovaginal candidiasis,Terconazole,On Label,RX,Cream,3.525,3.0475,68.99,20.0,2.7175000000000002
+vulvovaginal candidiasis,Tioconazole,On Label,OTC,Other,3.8525,2.0225,22.99,145.0,1.8275000000000001
