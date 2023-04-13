@@ -1,4 +1,4 @@
-# Sc1015-Project
+# SC1015-Project
 
 ## About
 This is our Mini-Project for SC1015 which aims to analyze the dataset and identify significant factors that impact life expectancy, such as GDP, BMI, and HIV/AIDS prevalence. 
