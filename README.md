@@ -28,9 +28,10 @@ Our motivation for this project is to investigate the various factors that impac
 - Multi-Layer Perceptron ANN (Regression)
 
 ## Conclusion
-- Remaining lease has minimum correlation with resale price unexpectedly, so it seems to be less important factor affecting HDB resale prices
-- Lease commence date and floor area is important variables as they have high correlation and linearity with HDB resale price
-- Storey range, flat level and flat type are important variables that cause variations to HDB sale prices, while town seems to be less important
+- Population size has minimum correlation with life expectancy, this is justified as population size may vary widely between countries with similar levels of life expectancy
+- Mortality Rates and Schooling are important variables as they have high correlation and linearity with life expectancy. Higher mortality rates likely indicate poorer health conditions, while higher levels of schooling are associated with better health awareness and access to healthcare. 
+- Economy status of a country (Developing/Developed) can be a good classifying variable for life expectancy.
+- Based on the models used, we derived that Random Forest returned the best model in predicting life expectancy.
 
 ## What did we learn from this project
 - We made use of Random Forest Regressors, K-Neighbours Regressors and Multi-Layer Perceptron Neural Networks, which are new Machine Learning algorithms not taught in the course.
