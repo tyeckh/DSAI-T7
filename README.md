@@ -1,4 +1,4 @@
-# SC1015-Project
+# A133 Team 7 Mini-Project | SC1015 AY22/23 Sem 2
 
 ## About
 This is our Mini-Project for SC1015 which aims to analyze the dataset and identify significant factors that impact life expectancy, such as GDP, BMI, and HIV/AIDS prevalence. 
@@ -7,8 +7,8 @@ This is our Mini-Project for SC1015 which aims to analyze the dataset and identi
 Do take a look at the powerpoint slides for a detailed walkthrough of our project!
 
 ## Contributors
- - @tyeckh: Data Preparation and Exploratory Data Analysis
- - @chqizh: Exploratory Data Analysis and Machine Learning
+ - Chan Kit Ho ([@tyeckh](https://github.com/tyeckh)): Data Preparation and Exploratory Data Analysis
+ - Chiang Qin Zhi ([@chqizh](https://github.com/chqizh)): Exploratory Data Analysis and Machine Learning
 
 
 ## Motivation 
