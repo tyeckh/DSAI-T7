@@ -43,6 +43,7 @@ Ultimately, with a better understanding of the factors and an effective machine 
 - Mortality Rates, Economic Status and Schooling are important variables as they have high correlation and linearity with life expectancy. Higher mortality rates likely indicate poorer health conditions, while higher levels of schooling are associated with better health awareness and access to healthcare. 
 - Life expectancy can be a good classifying variable for Economic status of a country (Developing/Developed), signifying that economy status is a significant factor, which is backed up by the correlation and the rest of our models. This makes sense as the wealthier a country is, the better it's healthcare and working conditions for instance.
 - Based on the models used, we derived that Random Forest returned the best model in predicting life expectancy.
+- With our ML prediction models, we hope it would be able to guide policymakers, organisations and researchers in more efficient, targeted interventions and to run accurate predictions before implementing any changes.
 
 ## What did we learn from this project
 - We made use of Random Forest Regressors, K-Neighbours Regressors and Multi-Layer Perceptron Neural Networks, which are new Machine Learning algorithms not taught in the course.
@@ -55,3 +56,6 @@ We would like to give appreciation to our Lab TA, Zou Yuxuan of NTU SCSE for bei
 
 ## References
 https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html 
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
